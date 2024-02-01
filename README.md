@@ -3,6 +3,9 @@
 
 ---
 
+## Preview Demo
+[Demo Test](https://three-js-mind-ar-template.vercel.app/)
+
 ## Tech Stack
 
 - Three.js
