@@ -1,5 +1,5 @@
 ---
-<img width="796" alt="screenshot" src="https://github.com/RoxDevvv/ThreeJS-MindAR-Template/Preview.gif">
+<img width="796" alt="screenshot" src="https://github.com/RoxDevvv/ThreeJS-MindAR-Template/blob/main/Preview.gif">
 
 ---
 
