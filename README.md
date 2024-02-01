@@ -5,7 +5,8 @@
 
 ## Preview Demo
 [Demo Test](https://three-js-mind-ar-template.vercel.app/)
-
+## Test Marker
+<img alt="Marker" src="https://github.com/RoxDevvv/ThreeJS-MindAR-Template/blob/main/MarkerTest.jpg">
 ## Tech Stack
 
 - Three.js
